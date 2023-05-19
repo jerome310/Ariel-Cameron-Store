@@ -1,4 +1,4 @@
-# Ariel-Cameron-Store
+# Shopify Beginning Steps
 ```
 ### Shopify Onilne Store
 ```
