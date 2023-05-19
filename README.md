@@ -1,7 +1,6 @@
 # Shopify Beginning Steps 
-```
-```
-# Shopify Online Store
+
+### Shopify Online Store
 ```
  Create an Online store on the shopify the plateform
 ```
